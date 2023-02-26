@@ -3,7 +3,6 @@ var b = b; //Declaramos y asignamos "inicializamos"
 b = 'bb'; //reasignacion
 var a = 'aa'; //redeclaracion
 
-
 //Global scope
 //cualquier variable que se encuentre en el documento pasa a ser variable global
 //podemos acceder a ella en cualquier parte del documento.
