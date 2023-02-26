@@ -9,4 +9,4 @@ function greeting () {
     }
 }
 greeting();
-console.log(userName); //la variable no es visible fuera de la funcion.
+
